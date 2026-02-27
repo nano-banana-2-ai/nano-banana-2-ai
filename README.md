@@ -6,6 +6,7 @@
 </p>
 
 ---
+![Uploading image-nano-banana-2.jpeg…]()
 
 ## 🌟 Access Nano Banana 2 Free
 Due to the massive viral success of the Feb 26 launch, our high-speed community mirror is currently live for public testing. You can access the interface by typing the following address into your browser:
