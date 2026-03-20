@@ -18,6 +18,7 @@
 ## 🌟 Access Nano Banana 2 Free
 Due to the massive viral success of the Feb 26 launch, our high-speed community mirror is currently live for public testing. You can access the interface by typing the following address into your browser:
 
+### 👉 [bananaai.run](https://bananaai.run) (Official Main Site)
 ### 👉 nanobanana2ai.pro
 
 ---
@@ -38,12 +39,12 @@ The most searched comparison today is **Nano Banana 2 vs Pro**. Here is why crea
 *   **Advanced World Knowledge**: Rooted in Gemini 3.1 architecture for factual image generation.
 
 ## 🚀 Community Resources & Prompts
-For the best **Nano Banana Model Prompts** and the latest **Nano Banana 2 API** documentation, visit our main community gallery at **nanobanana2ai.pro**. 
+For the best **Nano Banana Model Prompts** and the latest **Nano Banana 2 API** documentation, visit our main community gallery at **[bananaai.run](https://bananaai.run)** or **nanobanana2ai.pro**. 
 
 We are tracking the **Nano Banana 2 Release Date** global rollout and providing free access nodes for users who cannot access **Nano Banana AI Studio** in their region.
 
 ---
 <p align="center">
-  <b>Ready to create? Search "nanobanana2ai.pro" on Google to join the 4K AI movement.</b><br>
+  <b>Ready to create? Search "[bananaai.run](https://bananaai.run)" or "nanobanana2ai.pro" on Google to join the 4K AI movement.</b><br>
   <i>Status: Official Public Mirror Online - Feb 27, 2026</i>
 </p>
